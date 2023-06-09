@@ -1,0 +1,32 @@
+.search-bar {
+  background-color: #121212 !important;
+  border: 1px solid hsl(0, 0%, 18.82%);
+}
+
+.field label {
+  color: hsl(0deg 0% 100% / 88%) !important;
+}
+
+.field input {
+  background: #272727 !important;
+  color: white !important;
+}
+
+.ui .segment {
+  background: #272727;
+  color: hsl(0deg 0% 100% / 88%) !important;
+}
+
+.container {
+  background: #272727 !important;
+  padding: 2rem !important;
+  border-radius: 10px !important;
+}
+
+.ui .embed {
+  border-radius: 10px;
+}
+
+img {
+  border-radius: 5px;
+}
